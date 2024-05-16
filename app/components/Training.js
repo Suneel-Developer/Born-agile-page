@@ -28,13 +28,13 @@ const Training = () => {
                         <SwiperSlide className='min-w-[252px] md:min-w-[406px] max-w-[252px] md:max-w-[406px] w-full'>
                         <div className='sliderbox rounded-[30px] overflow-hidden h-[255px] md:h-[406px] mb-5 md:mb-8'><img src="/assets/realistic-resourcing.png" alt="" className='w-full h-full' /></div>
                             <h2 className="text-lg md:text-[34px] md:leading-[49px] text-white">Realistic resourcing and progress insights</h2>
-                            <p className='text-sm md:text-[17px] md:leading-[30px] text-white mt-3'>Empowering you to make informed decisions and course corrections as needed. No more guesswork and blind spots - with Born Agile, you'll have the clarity and transparency you need to deliver on time.</p>
+                            <p className="text-sm md:text-[17px] md:leading-[30px] text-white mt-3">Empowering you to make informed decisions and course corrections as needed. No more guesswork and blind spots - with Born Agile, you'll have the clarity and transparency you need to deliver on time.</p>
                         </SwiperSlide>
 
                         <SwiperSlide className='min-w-[252px] md:min-w-[406px] max-w-[252px] md:max-w-[406px] w-full'>
                         <div className='sliderbox rounded-[30px] overflow-hidden h-[255px] md:h-[406px] mb-5 md:mb-8 flex justify-center items-center'><img src="/assets/cost-efficient.svg" alt="cost-efficient" className='w-full h-full' /></div>
                             <h2 className="text-lg md:text-[34px] md:leading-[49px] text-white">Predictable and cost-efficient execution</h2>
-                            <p className='text-sm md:text-[17px] md:leading-[30px] text-white mt-3'>Foster team autonomy by clarifying scopes, breaking down work and removing dependencies. No more disengaged workforce - with Born Agile, you'll keep track of team performance, skills and improvement areas.</p>
+                            <p className="text-sm md:text-[17px] md:leading-[30px] text-white mt-3">Foster team autonomy by clarifying scopes, breaking down work and removing dependencies. No more disengaged workforce - with Born Agile, you'll keep track of team performance, skills and improvement areas.</p>
                         </SwiperSlide>
                     </Swiper>
                 </div>
