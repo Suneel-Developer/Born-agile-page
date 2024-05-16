@@ -32,9 +32,9 @@ const Innovation = () => {
                 </div>
                 <div className='slg:w-[45%]'>
                     <div className='slg:max-w-[570px] w-full'>
-                        <h1 className='text-[28px] md:text-[56px] font-medium break-words leading-[42px] md:leading-[70px] text-white mb-3 md:mb-5'>Embrace the future with <span className='bg-text'>Born Agile AI</span></h1>
-                        <p className='text-base md:text-xl font-normal text-white'>Our AI technology reimagines delivery management, offering you unparalleled control and a vast array of settings to bring your vision to life with efficiency and flair. Experience rapid product delivery from the initial concept to the final product, reducing costs and project delays while maximising your return on investment. Born Agile harnesses the latest AI innovation for agile delivery that challenges the status quo, allowing for streamlined discovery, planning and delivery. Elevate your delivery with automation, giving you a competitive edge in today's digital world. Born Agile is where your delivery potential meets technological progress.</p>
-                        <button className='max-w-[441px] w-full py-6 px-1 mt-5 md:mt-10 bg-yellow rounded-[20px] font-medium text-base md:text-[26px]'>Unlock Your Growth Potential</button>
+                        <h1 className="text-[28px] md:text-[56px] font-medium break-words leading-[42px] md:leading-[70px] text-white mb-3 md:mb-5">Embrace the future with <span className='bg-text'>Born Agile AI</span></h1>
+                        <p className="text-base md:text-xl font-normal text-white">Our AI technology reimagines delivery management, offering you unparalleled control and a vast array of settings to bring your vision to life with efficiency and flair. Experience rapid product delivery from the initial concept to the final product, reducing costs and project delays while maximising your return on investment. Born Agile harnesses the latest AI innovation for agile delivery that challenges the status quo, allowing for streamlined discovery, planning and delivery. Elevate your delivery with automation, giving you a competitive edge in today's digital world. Born Agile is where your delivery potential meets technological progress.</p>
+                        <button className="max-w-[441px] w-full py-6 px-1 mt-5 md:mt-10 bg-yellow rounded-[20px] font-medium text-base md:text-[26px]">Unlock Your Growth Potential</button>
                     </div>
                 </div>
             </div>
